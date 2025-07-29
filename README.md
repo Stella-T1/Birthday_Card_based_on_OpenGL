@@ -1,6 +1,6 @@
-# 🎉 3D Birthday Card using OpenGL
+# 🎉 2D Birthday Card using OpenGL
 
-This project presents a 3D animated birthday card built with **OpenGL** using **C/C++**. It demonstrates how low-level graphics programming can be used to create interactive and visually appealing greeting experiences. The card features dynamic scenes, colorful animations, and personalized text rendered using OpenGL primitives and transformations.
+This project presents a 2D animated birthday card built with **OpenGL** using **C/C++**. It demonstrates how low-level graphics programming can be used to create interactive and visually appealing greeting experiences. The card features dynamic scenes, colorful animations, and personalized text rendered using OpenGL primitives and transformations.
 
 ## ✨ Project Highlights
 

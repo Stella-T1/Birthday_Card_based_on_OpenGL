@@ -24,4 +24,3 @@ This project presents a 3D animated birthday card built with **OpenGL** using **
 
 - C/C++ Compiler (e.g., `g++`)
 - OpenGL and GLUT libraries
-- 

@@ -6,14 +6,14 @@ This project presents a 2D animated birthday card built with **OpenGL** using **
 
 - 🧱 **Built with OpenGL**: Direct rendering using OpenGL functions (`GLUT`, `GLU`, etc.)
 - 💡 **Animation Effects**: Includes fireworks, color transitions, and camera movement.
-- 🎂 **Interactive 3D Scene**: Birthday cake, candles, and festive objects arranged in 3D space.
+- 🎂 **Interactive 2D Scene**: Birthday cake, candles, and festive objects arranged in 3D space.
 - 🖋️ **Custom Text Rendering**: Personalized birthday message drawn with bitmap fonts.
 - 📐 **Basic Transformation**: Demonstrates scaling, rotation, and translation in OpenGL.
 
 ## 🧪 How It Works
 
 1. Initializes an OpenGL window using GLUT.
-2. Sets up projection and lighting for 3D rendering.
+2. Sets up projection for 2D rendering.
 3. Uses modular functions to draw:
    - Cake and candles using quads/cylinders.
    - Fireworks using particles or animated lines.

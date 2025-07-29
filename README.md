@@ -24,3 +24,14 @@ This project presents a 2D animated birthday card built with **OpenGL** using **
 
 - C/C++ Compiler (e.g., `g++`)
 - OpenGL and GLUT libraries
+
+## 📚 References
+
+- [📘 FreeGLUT API Documentation](https://freeglut.sourceforge.net/docs/api.php)  
+  Reference for using GLUT functions, including window management, input handling, and drawing.
+
+- [📖 LearnOpenGL](https://learnopengl.com/)  
+  Comprehensive modern OpenGL tutorial series with examples, though more focused on OpenGL 3.3+.
+
+- [📙 OpenGL-Tutorial.org](https://www.opengl-tutorial.org/)  
+  Step-by-step OpenGL tutorials with code snippets, great for beginners and intermediate developers.
